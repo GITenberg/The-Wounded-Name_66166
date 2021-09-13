@@ -1,0 +1,29 @@
+_repo: The-Wounded-Name_66166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Broster, D. K. (Dorothy Kathleen)
+    alias: Broster, Dorothy Kathleen
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '43069'
+    url: http://www.gutenberg.org/2009/agents/43069
+    wikipedia: https://en.wikipedia.org/wiki/D._K._Broster
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66166'
+  lccn: '23009172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Male friendship -- Fiction'
+- GITenberg
+title: The Wounded Name
+url: http://www.gutenberg.org/ebooks/66166
